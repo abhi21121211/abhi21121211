@@ -3,11 +3,11 @@
 <img align="right" ait="Coding"  width="400" src="https://github.com/AbhiDukare/AbhiDukare.github.io/assets/111838547/56012ae8-0d38-4ea1-a1e5-7df99f7bbe3b"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi21121211&label=Profile%20views&color=0e75b6&style=flat" alt="abhi21121211" /> </p>
 
-- 🔭 I’m currently working on **My portfolio**(https://github.com/abhi21121211/AbhiDukare.github.io)
+- 🔭 I’m currently working on **My portfolio**(https://abhi21121211.github.io)
 
 - 🌱 I’m currently learning **full Stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhi21121211](https://github.com/abhi21121211)
+- 👨‍💻 All of my projects are available at [https://abhi21121211.github.io)
 
 - 📫 How to reach me **abhishekdukare689@gmail.com**
 
