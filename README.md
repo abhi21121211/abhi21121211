@@ -1,6 +1,8 @@
+
+<img align="center" src="https://media.licdn.com/dms/image/C4E16AQH6wlu4m1Csfg/profile-displaybackgroundimage-shrink_350_1400/0/1668485291939?e=1694649600&v=beta&t=bgde6-we6g7nxMBKNl1_JjYX7QQpYxD61570HUdjZPY" />
 <h1 align="center">Hi 👋, I'm Abhishek Dukare</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" ait="Coding"  width="400" src="https://github.com/AbhiDukare/AbhiDukare.github.io/assets/111838547/56012ae8-0d38-4ea1-a1e5-7df99f7bbe3b"/>
+<img align="right" ait="Coding"  width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi21121211&label=Profile%20views&color=0e75b6&style=flat" alt="abhi21121211" /> </p>
 
 - 🔭 I’m currently working on **My portfolio**(https://abhi21121211.github.io)
