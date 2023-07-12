@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhishekdukare689@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ItX7ngZp5TSgmt-ESsAmxEKv-vuhK0Vu/view?usp=sharing](https://drive.google.com/file/d/1ItX7ngZp5TSgmt-ESsAmxEKv-vuhK0Vu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ItX7ngZp5TSgmt-ESsAmxEKv-vuhK0Vu/view?usp=sharing](https://drive.google.com/file/d/1bE8PAxOB2F2qmc4L4sMdZz_4KO3yUNJS/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
