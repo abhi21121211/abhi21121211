@@ -33,7 +33,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <p style="margin-top:80px">
     
 <h2>Portfolio</h2>
-  <p>Check out my portfolio at <a href="https://abhi21121211.github.io/">https://abhi21121211.github.io/</a></p>
+  <p>Check out my portfolio at <a href="https://abhi21121211.github.io/">https://abhi21121211.github.io</a></p>
   
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
 
