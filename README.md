@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media.licdn.com/dms/image/C4E16AQH6wlu4m1Csfg/profile-displaybackgroundimage-shrink_350_1400/0/1668485291939?e=1700092800&v=beta&t=n6zm9-susrrBapVoG5_AfdG_4UOdkhMhHKzi1W5IOjg" />
+<img align="center" src="https://github.com/abhi21121211/abhi21121211/blob/main/banner%20bg.jpeg" />
 <h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Abhishek Dukare/></h1>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
