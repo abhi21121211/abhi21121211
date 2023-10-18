@@ -1,11 +1,14 @@
 
 <img align="center" src="https://github.com/abhi21121211/abhi21121211/blob/main/banner%20bg.jpeg" />
+
 <h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Abhishek Dukare/></h1>
+    
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h4 align="center">
 I'm a full-stack web developer with experience in both front-end and back-end technologies. Extensive experience building user-friendly interfaces and working in cross-functional teams. I enjoy learning about new technologies and applying them to real-world situations. Always eager to take on new tasks and eager to become more productive each day.
     </h4>
+    
 <p align= "center" style="margin-top:30px">
 <img width="100px" height="30px" src="https://img.shields.io/badge/J-Java-blue"/>
 <img width="100px" height="30px" src="https://img.shields.io/badge/M-MongoDB-pink"/>
