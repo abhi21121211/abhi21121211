@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/abhi21121211/abhi21121211/blob/main/banner%20bg.jpeg" />
+<img align="center" src="https://github.com/abhi21121211/abhi21121211/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png" />
 
 <h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Abhishek Dukare/></h1>
     
