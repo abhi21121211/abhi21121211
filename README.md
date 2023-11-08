@@ -69,8 +69,8 @@ I'm a full-stack web developer with experience in both front-end and back-end te
     <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
     <img src="https://dantehaxor.github.io/images/dsaLogo.png" width="50" height="40" style="margin-right:20px">
     <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70" height="50" style="margin-right:20px">
-   
-  
+   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="70" height="50" style="margin-right:20px">
+ 
 </p>
 
 <br/>
