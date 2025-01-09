@@ -6,7 +6,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h4 align="center">
-I'm a full-stack web developer with experience in both front-end and back-end technologies. Extensive experience building user-friendly interfaces and working in cross-functional teams. I enjoy learning about new technologies and applying them to real-world situations. Always eager to take on new tasks and eager to become more productive each day.
+Hi, I'm a passionate full-stack web developer based in Delhi. I have extensive experience in both front-end and back-end technologies, building user-friendly interfaces, and collaborating with cross-functional teams.
+
+I enjoy learning about new technologies and applying them to solve real-world challenges. With a keen eye for detail and a growth mindset, I am always eager to take on new tasks, improve my skills, and become more productive each day.
+
+Feel free to explore my projects or connect with me to discuss ideas and collaboration opportunities!
     </h4>
     
 <p align= "center" style="margin-top:30px">
@@ -25,6 +29,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png"> I’m currently working as a **frontend developer at QuickTouch PRT Ltd.**
+- And help our developer working on human-readable-errors npm. You can use this by using **npm i human-readable-errors**.
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
 
@@ -44,7 +49,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <a href = "https://www.linkedin.com/in/abhishek-dukare/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:abhishekdukare689@gmail.com"><img width=43px height=45px src="https://img.icons8.com/fluent/48/000000/gmail.png"></a>
 <a href="https://api.whatsapp.com/send?phone=7020162627"><img width=40px height=43px src="https://img.icons8.com/fluent/48/000000/whatsapp.png"></a>
-<a href = "https://www.instagram.com/abhi_21121211"><img width=40px height=43px  src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/></a>
+<a href = "https://www.instagram.com/abhi21121211/"><img width=40px height=43px  src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/></a>
 
 </div>
 
